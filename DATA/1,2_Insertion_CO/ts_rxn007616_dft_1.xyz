@@ -1,5 +1,5 @@
 16
-Properties=species:S:1:pos:R:3:molID:I:1:forces_dft:R:3 Nmols=1 Comp=VC(1) energy_dft=-8861.147090386470 pbc="F F F"
+Properties=species:S:1:pos:R:3:molID:I:1:forces_dft:R:3 Nmols=1 Comp=VC(1) energy_dft=-8864.722937436571 pbc="F F F"
 C	-1.2633695	-0.1797899	1.2658795	0	0.0023379	0.0027344	-0.0056613
 C	-1.1681495	-0.0064200	-0.2251599	0	-0.0027813	0.0099131	-0.0046505
 N	-0.8520696	1.3267595	-0.7235497	0	0.0092122	-0.0028807	0.0070230
