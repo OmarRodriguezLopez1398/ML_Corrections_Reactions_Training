@@ -1,4 +1,4 @@
-# Machine Learning Approaches for Efficient and Accurate Reaction Network Analysis
+# Machine Learning Approaches for Efficient and Accurate Reaction Network Analysis 🧪⚡🤖
 
 [![Colab](https://img.shields.io/badge/Launch-Colab-blue?logo=googlecolab)](https://colab.research.google.com/github/OmarRodriguezLopez1398/ML_corrections_Reactions_Training/blob/main/Tutorial.ipynb)
 
