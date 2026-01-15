@@ -1,4 +1,10 @@
-# ML_Corrections_Reactions_Training
+# Machine Learning Approaches for Efficient and Accurate Reaction Network Analysis
+
+[![Colab](https://img.shields.io/badge/Launch-Colab-blue?logo=googlecolab)](https://colab.research.google.com/github/OmarRodriguezLopez1398/ML_corrections_Reactions_Training/blob/main/Tutorial.ipynb)
+
+<p align="center">
+  <img src="IMAGE.png" />
+</p>
 
 This repository contains **training materials and a practice notebook** for applying **machine learning to chemical reactions**. The tutorials guide you through a complete workflow to predict **reaction enthalpies, barrier heights, and related properties** using both **direct learning** and **Δ-learning approaches**.
 
