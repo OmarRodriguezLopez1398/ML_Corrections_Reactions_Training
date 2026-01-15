@@ -3,7 +3,9 @@
 [![Colab](https://img.shields.io/badge/Launch-Colab-blue?logo=googlecolab)](https://colab.research.google.com/github/OmarRodriguezLopez1398/ML_corrections_Reactions_Training/blob/main/Tutorial.ipynb)
 
 <p align="center">
-  <img src="IMAGE.png" />
+  <img src="IMAGE.png" width="500"/>
+  <br>
+  <em>Illustration created for intuitive purposes using Gemini AI</em>
 </p>
 
 This repository contains **training materials and a practice notebook** for applying **machine learning to chemical reactions**. The tutorials guide you through a complete workflow to predict **reaction enthalpies, barrier heights, and related properties** using both **direct learning** and **Δ-learning approaches**.
@@ -16,6 +18,6 @@ Throughout the tutorial, you will learn how to:
 - **Assess model accuracy** using errors and scatter plots, and compare baseline vs ML-corrected results.
 
 ## Notebook
-You can run the notebooks directly in Google Colab:
+You can run the notebook directly in Google Colab:
 
 👉 **[Open Training Notebook](https://colab.research.google.com/github/OmarRodriguezLopez1398/ML_Corrections_Reactions_Training/blob/main/Tutorial.ipynb)**
