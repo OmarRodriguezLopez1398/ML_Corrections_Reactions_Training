@@ -12,4 +12,4 @@ Throughout the tutorial, you will learn how to:
 ## Notebook
 You can run the notebooks directly in Google Colab:
 
-👉 **[Open Training Notebook](https://colab.research.google.com/github/OmarRodriguezLopez1398/ML_Corrections_Reactions_Training/blob/main/notebook_coimbra.ipynb)**
+👉 **[Open Training Notebook](https://colab.research.google.com/github/OmarRodriguezLopez1398/ML_Corrections_Reactions_Training/blob/main/Tutorial.ipynb)**
